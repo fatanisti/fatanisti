@@ -27,7 +27,7 @@ Please kindly take notes that this readme reflects the condition at the time thi
 ### Hopefully I can do much better and more things in the future, <b>especially filling this github with a lot of repos</b>. See ya!
 
 ![Fatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatanisti&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatanisti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatanisti&layout=compact&theme=dracula)](https://github.com/fatanisti?tab=repositories)
 
 ### Connect with Me
 
