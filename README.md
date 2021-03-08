@@ -6,7 +6,7 @@
 
 Please kindly take notes that this readme reflects the condition at the time this readme was written. So hopefully, I won't forget to update this little .md in the future.
 
-## :star2: For starters, let's see what I can do (or at least, what I have done on the past): :star2:
+## :star2: For starters, let's see what I can do (or at least, what I have done up to this point): :star2:
 
 ### :iphone: Making android apps, which involving these guys:
 - Android Studio
