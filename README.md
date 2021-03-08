@@ -18,7 +18,7 @@ Please kindly take notes that this readme reflects the condition at the time thi
 - Back-end thingy { Laravel, CodeIgniter, Flask }
 - Database { mySQL }
 
-### :wrench: Do some coding for various purpose, using:
+### :wrench: Do some coding for various purposes, using:
 - C++
 - Java
 - php
