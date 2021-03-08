@@ -14,9 +14,9 @@ Please kindly take notes that this readme reflects the condition at the time thi
 - Kotlin
 
 ### :computer: Making web, which involving these guys:
-- Front-end thingy {HTML, CSS, Javascript, jQuery}
-- Back-end thingy {Laravel, CodeIgniter, Flask}
-- Database {mySQL}
+- Front-end thingy { HTML, CSS, Javascript, jQuery }
+- Back-end thingy { Laravel, CodeIgniter, Flask }
+- Database { mySQL }
 
 ### :wrench: Do some coding for various purpose, using:
 - C++
@@ -24,9 +24,10 @@ Please kindly take notes that this readme reflects the condition at the time thi
 - php
 - python
 
-### Hopefully I can do much better and more things in the future. See ya!
+### Hopefully I can do much better and more things in the future, <b>especially filling this github with a lot of repos</b>. See ya!
 
 ![Fatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatanisti&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatanisti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with Me
 
