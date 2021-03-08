@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm Fatan 👋
 
 <!--
 **fatanisti/fatanisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Please kindly take notes that this readme reflects the condition at the time this readme was written. So hopefully, I won't forget to update this little .md in the future.
+
+## :star2: For starters, let's see what I can do (or at least, what I have done on the past): :star2:
+
+### :iphone: Making android apps, which involving these guys:
+- Android Studio
+- Java
+- Kotlin
+
+### :computer: Making web, which involving these guys:
+- Front-end thingy {HTML, CSS, Javascript, jQuery}
+- Back-end thingy {Laravel, CodeIgniter, Flask}
+- Database {mySQL}
+
+### :wrench: Do some coding for various purpose, using:
+- C++
+- Java
+- php
+- python
+
+### Hopefully I can do much better and more things in the future. See ya!
+
+![Fatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatanisti&show_icons=true&theme=dracula)
+
+### Connect with Me
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/fatanahdiy97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fatan%20A.%20Ahdiy-blue?style=for-the-badge&logo=linkedin"></a>
+  <a target="_blank" href="mailto:fatanaufa97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fatanaufa97@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+</p>
