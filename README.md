@@ -14,8 +14,8 @@ Please kindly take notes that this readme reflects the condition at the time thi
 - Kotlin
 
 ### :computer: Making web, which involving these guys:
-- Front-end thingy { HTML, CSS, Javascript, jQuery }
-- Back-end thingy { Laravel, CodeIgniter, Flask }
+- Front-end things { HTML, CSS, Javascript, jQuery }
+- Back-end things { Laravel, CodeIgniter, Flask }
 - Database { mySQL }
 
 ### :wrench: Do some coding for various purposes, using:
